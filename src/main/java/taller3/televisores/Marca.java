@@ -2,10 +2,9 @@ package taller3.televisores;
 
 public class Marca {
 
-	private String nombre;
+	 String nombre;
 
 	public Marca(String nombre) {
-		super();
 		this.nombre = nombre;
 	}
 

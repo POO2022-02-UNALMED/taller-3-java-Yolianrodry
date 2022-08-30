@@ -14,13 +14,13 @@ public class Control {
 	
 	public void turnOn() {
 		if (tv.estado==false){
-			tv.estado= true;
+			tv.estado = true;
 		}
 	}
 	
 	public void turnOff() {
 		if (tv.estado==true){
-			tv.estado= false;
+			tv.estado = false;
 		}
 	}
 	
